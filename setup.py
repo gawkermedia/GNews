@@ -17,3 +17,4 @@ setup(
         "Operating System :: OS Independent",
     ],
     python_requires
+)
